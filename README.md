@@ -1,1 +1,2 @@
-# C30-project-for-checking
+# zombie-crush-boilerplate
+boilerplate for crush the zombie game
